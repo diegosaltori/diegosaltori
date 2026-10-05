@@ -143,12 +143,29 @@ Recently used in a project: Prisma alongside MongoDB/Mongoose for data modeling 
 
 `Git` · `GitHub` · `Visual Studio Code`
 
+### AI Applied to Development
+
+`AI-first development` · `Harness` · `RAG` · `Spec-Driven Development` · `AI agents` · `Custom AI skills`
+
+I apply AI-first practices to my projects through Harness-based workflows, Retrieval-Augmented Generation (RAG), and Spec-Driven Development. I also create autonomous agents and custom skills tailored to the needs of each project, improving implementation, automation, and developer productivity.
+
+I also build **LLM-powered chatbots** for user communication and AI-assisted data analysis features. These solutions are designed with security, privacy, responsible data handling, and the applicable legal requirements in mind, including Brazil's **LGPD (General Data Protection Law)** and other relevant regulations.
+
 ## What I bring to a team
+
+### As a QA
 
 - A quality-first mindset throughout the software development lifecycle.
 - Experience connecting manual testing, automation, API validation, and exploratory testing.
+- Practical use of AI to improve test strategy, coverage, and documentation.
+- Clear communication with engineering, product, and business teams.
+
+### As a developer
+
 - A developer's perspective for investigating defects and collaborating with engineering teams.
-- Practical use of AI to improve productivity, documentation, and test strategy.
+- Experience building web solutions with Python, Flask, FastAPI, JavaScript, and TypeScript.
+- Interest in creating reliable, maintainable, and user-focused software.
+- Practical use of AI to improve implementation, automation, and developer productivity.
 - Continuous learning guided by measurable improvement and sound engineering practices.
 
 ## Let's connect
