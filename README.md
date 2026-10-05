@@ -1,8 +1,18 @@
-# Hi, I'm Diego 👋
+<div align="center">
+  <h1>Hi, I'm Diego 👋</h1>
+  <p><strong>Software Quality Assurance Analyst · QA Automation · Full-stack Developer</strong></p>
+  <p>
+    <a href="#profile">Profile</a> ·
+    <a href="#certifications">Certifications</a> ·
+    <a href="#qa--test-engineering">QA & Test Engineering</a> ·
+    <a href="#software-development">Software Development</a> ·
+    <a href="#lets-connect">Contact</a>
+  </p>
+</div>
 
-## Software Quality Assurance Analyst and Full-stack Developer
+<hr>
 
-### About me
+## Profile
 
 I'm Diego, a Software Quality Assurance Analyst with a strong foundation in test engineering and a passion for technological innovation and software development.
 
@@ -14,7 +24,7 @@ My professional work focuses on ensuring the reliability, quality, and performan
 - **Prompt engineering and AI in QA:** Strategic use of Artificial Intelligence in my daily workflow to improve Spec-Driven Development implementations and create and manage skills and autonomous agents that accelerate the testing lifecycle.
 - **Python and TypeScript full-stack development:** Development of complete solutions with Python, Flask, and TypeScript. My experience as a developer, gained through personal projects, AI studies, and freelance work, gives me a holistic view of the software lifecycle and helps me diagnose bugs and communicate effectively with engineering teams.
 
-### Beyond the screen ☕
+## Beyond the screen ☕
 
 I'm passionate about coffee culture and practice the art of home barista. Just like technology, brewing the perfect coffee requires precision, patience, technique, and continuous improvement — principles I apply every day to software quality.
 
@@ -22,17 +32,28 @@ I'm always open to professional challenges, networking, and exchanging ideas abo
 
 ## Certifications
 
-- [ISTQB® CTFL](https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url) — Certified Tester Foundation Level
-- [ISTQB® CTFL-AT](https://www.credly.com/badges/e58ff930-3f77-49bf-b82a-a72d0e93066f/public_url) — Agile Tester
-
-<p align="left">
-  <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url">
-    <img src="./img/istqb-ctfl.png" alt="ISTQB CTFL certification badge" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/e58ff930-3f77-49bf-b82a-a72d0e93066f/public_url">
-    <img src="./img/istqb-ctfl-at.png" alt="ISTQB CTFL-AT certification badge" width="120">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/695a8467-83f3-43be-b0d5-d8a9ac6c1f4b/public_url">
+        <img src="./img/istqb-ctfl.png" alt="ISTQB CTFL certification badge" width="120">
+      </a>
+      <br>
+      <strong>ISTQB® CTFL</strong>
+      <br>
+      <sub>Certified Tester Foundation Level</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e58ff930-3f77-49bf-b82a-a72d0e93066f/public_url">
+        <img src="./img/istqb-ctfl-at.png" alt="ISTQB CTFL-AT certification badge" width="120">
+      </a>
+      <br>
+      <strong>ISTQB® CTFL-AT</strong>
+      <br>
+      <sub>Agile Tester</sub>
+    </td>
+  </tr>
+</table>
 
 ## QA & Test Engineering
 
@@ -132,7 +153,20 @@ Recently used in a project: Prisma alongside MongoDB/Mongoose for data modeling 
 
 ## Let's connect
 
-- [LinkedIn](https://www.linkedin.com/in/diegosaltori)
-- [YouTube](https://www.youtube.com/@diego.saltori)
-- [Instagram](https://instagram.com/diego.saltori)
-- [Email](mailto:dgarcia.saltori@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/diegosaltori">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/diegosaltori">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/@diego.saltori">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://instagram.com/diego.saltori">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:dgarcia.saltori@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
