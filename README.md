@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-## Software Quality Assurance Analyst | QA Automation | Developer
+## Software Quality Assurance Analyst and Full-stack Developer
 
 ### About me
 
@@ -67,15 +67,15 @@ I'm always open to professional challenges, networking, and exchanging ideas abo
   <img src="https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white" alt="Jinja" height="40">
 </p>
 
-`Python` · `Flask` · `FastAPI` · `Jinja` · `REST APIs` · `Full-stack development`
+`Python` · `Flask` · `FastAPI` · `Jinja` · `REST APIs`
 
 ### JavaScript and TypeScript
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40">
@@ -84,7 +84,7 @@ I'm always open to professional challenges, networking, and exchanging ideas abo
   <img src="https://img.shields.io/badge/Lucide%20React-F56565?style=flat&logo=lucide&logoColor=white" alt="Lucide React" height="40">
 </p>
 
-`JavaScript` · `Node.js` · `Express 5` · `TypeScript` · `React 19` · `React Router` · `Vite` · `JWT` · `Zod` · `Lucide React`
+`Node.js` · `JavaScript` · `TypeScript` · `Express 5` · `React 19` · `React Router` · `Vite` · `JWT` · `Zod` · `Lucide React`
 
 ### HTML and CSS
 
