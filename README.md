@@ -133,7 +133,6 @@ Recently used in a project: Prisma alongside MongoDB/Mongoose for data modeling 
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/diegosaltori)
-- [GitHub](https://github.com/diegosaltori)
 - [YouTube](https://www.youtube.com/@diego.saltori)
 - [Instagram](https://instagram.com/diego.saltori)
 - [Email](mailto:dgarcia.saltori@gmail.com)
