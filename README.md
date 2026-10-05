@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-## Software Quality Assurance Analyst | QA Automation | Python Developer
+## Software Quality Assurance Analyst | QA Automation | Developer
 
 ### About me
 
